@@ -23,7 +23,7 @@ variable "username" {
 }
 
 variable "password" {
-  type = number
+  type = string
 }
 
 variable "parameter_group_name" {
